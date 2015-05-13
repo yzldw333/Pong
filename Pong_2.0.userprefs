@@ -1,0 +1,33 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DataBean.cs">
+    <Files>
+      <File FileName="Assets/Scripts/BallMovement.cs" Line="31" Column="53" />
+      <File FileName="Assets/Scripts/AudioManagement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/InputController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DataBean.cs" Line="4" Column="18" />
+      <File FileName="Assets/Scripts/Chong.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SlowDown.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/WarningLayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LeftSkill.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/RightSkill.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/KeyBoardSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ButtonEvent.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="DataBean.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
